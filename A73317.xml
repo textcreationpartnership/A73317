@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A griefe on the death of Prince Henrie Expressed in a broken elegie, according to the nature of such a sorrow. By Cyril Tourneur.</title>
+            <author>Tourneur, Cyril, 1575?-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73317</idno>
+            <idno type="STC">STC 24148.3</idno>
+            <idno type="STC">ESTC S125557</idno>
+            <idno type="EEBO-CITATION">99900644</idno>
+            <idno type="PROQUEST">99900644</idno>
+            <idno type="VID">173663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173663)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2086:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A griefe on the death of Prince Henrie Expressed in a broken elegie, according to the nature of such a sorrow. By Cyril Tourneur.</title>
+                  <author>Tourneur, Cyril, 1575?-1626.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Welbie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Copy filmed at reel 2086 misbound.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry Frederick, --  Prince of Wales, 1594-1612 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173663:1"/>
+            <pb facs="tcp:173663:1"/>
+            <pb facs="tcp:173663:2"/>
+            <pb facs="tcp:173663:2"/>
+            <p>A GRIEFE ON THE DEATH OF PRINCE <hi>HENRIE.</hi>
+            </p>
+            <p>EXPRESSED IN A BROKEN Elegie, According to the nature of ſuch a ſorrow.</p>
+            <p>
+               <hi>BY</hi> CYRIL TOVRNEVR.</p>
+            <p>LONDON Printed for WILLIAM WELBIE. 1613.</p>
+            <pb facs="tcp:173663:3"/>
+            <pb facs="tcp:173663:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173663:4"/>
+            <pb facs="tcp:173663:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173663:5"/>
+            <pb facs="tcp:173663:5"/>
+            <pb facs="tcp:173663:6"/>
+            <pb facs="tcp:173663:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173663:7"/>
+            <pb facs="tcp:173663:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173663:8"/>
+            <pb facs="tcp:173663:8"/>
+            <head>To the Reader.</head>
+            <l>I Cannot blame thee, if thou read'ſt not right,</l>
+            <l>Or vnderſtand'st not; for I know thy ſight,</l>
+            <l>
+               <g ref="char:V">Ʋ</g>
+               <g ref="char:V">Ʋ</g>ith weeping is imperfect, if not blind,</l>
+            <l>And ſorrow does (almoſt) diſtract thy mind.</l>
+            <closer>
+               <signed>C. T.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173663:9"/>
+            <pb facs="tcp:173663:9"/>
+            <head>TO MY NOBLE MAISTER M<hi rend="sup">r</hi>. GEORGE CARIE.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR;</salute>
+            </opener>
+            <p>It was a ſeaſon for Elegies of this kind, when I wrote this; before HIS Funeralls. I had no purpoſe (then) to haue it publiſhed. Importuni<g ref="char:EOLhyphen"/>ty hath (ſince) drawne it from me. But my firſt intent of Dedication is not altered. It cannot; vnleſſe I could change my ſelfe. And (beſides the ſubſcription of my duety to you) you deſerue to bee acknowledged in this Argument; among HIS true Mourners: for you honoured HIM, much and faithful<g ref="char:EOLhyphen"/>ly. For which, no leſſe then for any other part of your generous diſpoſition, I am and will bee</p>
+            <closer>
+               <signed>Your Seruant <hi>CYRIL TOVRNEVR.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:173663:10"/>
+            <pb facs="tcp:173663:10"/>
+            <head>A GRIEFE ON THE DEATH OF PRINCE HENRIE, EXPRES<g ref="char:EOLhyphen"/>ſed in a broken Elegie, according <hi>to the nature of ſuch a ſorrow.</hi>
+            </head>
+            <l>GOod <hi>Vertue</hi> wipe thine eyes. Looke vp and ſee!</l>
+            <l>And wonder to behold it. Some there be,</l>
+            <l>That weepe not; but are ſtrangely merrie, dance,</l>
+            <l>And reuell. Can the loſſe of HIM aduance</l>
+            <l>The heart of any man to ſuch a mirth?</l>
+            <l>Can HIS graue be the womb, from whence the birth</l>
+            <l>Of pleaſure riſeth? <hi>Pity them. Their woe</hi>
+            </l>
+            <l>
+               <hi>Diſtracts'em, and they know not what they doe.</hi>
+            </l>
+            <l>Yet note'em better. Be they <hi>wicked</hi> men,</l>
+            <l>Their ſhew of <hi>Ioy</hi> is <hi>voluntarie</hi> then.</l>
+            <l>For now the <hi>Preſident</hi> of <hi>vertu's</hi> dead,</l>
+            <l>
+               <hi>Vice</hi> hopes to get her courſes licenced.</l>
+            <l>Dead! T'is aboue my knowledge how we liue</l>
+            <l>To ſpeake it. Is there any <hi>Faith</hi> to giue</l>
+            <pb facs="tcp:173663:11"/>
+            <pb facs="tcp:173663:11"/>
+            <l> The promiſes of <hi>health</hi> or <hi>remedy?</hi>
+            </l>
+            <l>Or any <hi>Meane</hi> to be preſerued by;</l>
+            <l>When <hi>Temperance,</hi> and <hi>Exerciſe</hi> of breath,</l>
+            <l>(Thoſe beſt <hi>Phyſitians</hi>) could not keepe from death,</l>
+            <l>The ſtrength of <hi>Nature?</hi> Was HEE temp'rate? whence</l>
+            <l>(Then) came HEE ſubiect to the violence</l>
+            <l>Of ſickneſſe? Rather was HEE not inclin'd</l>
+            <l>To <hi>pleaſures? Infinitely;</hi> ſtill HIS mind</l>
+            <l>Was on them; <hi>Infinitely;</hi> For HIS <hi>loue</hi>
+            </l>
+            <l>No <hi>Obiects</hi> had, but thoſe which were aboue</l>
+            <l>The cauſes of <hi>vexation;</hi> ſuch, as <hi>done,</hi>
+            </l>
+            <l>Repented not the pleaſures they begun,</l>
+            <l>But made them endleſſe: Nothing had the might</l>
+            <l>To diſ-effect his <hi>Actions</hi> of delight.</l>
+            <l>No; nor HIS <hi>ſuffrings.</hi> For although HEE knew,</l>
+            <l>That ſickneſſe came from earth to claime her due;</l>
+            <l>And to depriue HIM of that fortunate</l>
+            <l>Succeſſion to the greatneſſe of the <hi>State,</hi>
+            </l>
+            <l>Which HEE was borne to; <hi>that</hi> did likewiſe pleaſe,</l>
+            <l>And added nothing vnto HIS <hi>diſeaſe.</hi>
+            </l>
+            <l>Of HIS <hi>contentments</hi> heere, that was the beſt.</l>
+            <l>Therefore the laſt; that it might crowne the reſt.</l>
+            <l>But theſe are not the pleaſures that decay</l>
+            <l>The body. How hath death (then) found a way</l>
+            <l>To ONE ſo able? HEE was <hi>yong</hi> and <hi>ſtrong.</hi>
+            </l>
+            <l>Vnguiltie' of al <hi>diſorder</hi> could wrong</l>
+            <l>HIS <hi>Conſtitution.</hi> Doe no longer hide</l>
+            <l>It<g ref="char:punc">▪</g> t'was to vs a <hi>plague</hi> whereof HEE died.</l>
+            <pb facs="tcp:173663:14"/>
+            <pb facs="tcp:173663:14"/>
+            <l> A <hi>plague</hi> by much more common to vs, then</l>
+            <l>The laſt great ſickneſſe. Many more the men</l>
+            <l>Who ſuffer in it. That which now is gone,</l>
+            <l>Was but the <hi>Figure,</hi> of a greater One</l>
+            <l>To follow. Since the firſt that e'er was borne;</l>
+            <l>A fuller number was not knowne to mourne.</l>
+            <l>For all the <hi>old Men</hi> of the <hi>Kingdomes</hi> weepe,</l>
+            <l>Since HE that promis'd by HIS <hi>ſtrength</hi> to keepe</l>
+            <l>Their <hi>children</hi> free from <hi>others</hi> violence;</l>
+            <l>And by <hi>example</hi> from their <hi>owne</hi> offence;</l>
+            <l>Is taken from'em. And they would haue died</l>
+            <l>When HE did, but for tarying to prouide</l>
+            <l>A <hi>ſecond</hi> care for that they would haue left</l>
+            <l>To HIM, of whoſe <hi>protection</hi> th'are bereft.</l>
+            <l>If we doe well conſider their iuſt woes;</l>
+            <l>We muſt include our yong men too, in thoſe:</l>
+            <l>And grieue for euer: For our old mens teares,</l>
+            <l>Are rather for the time <hi>to come,</hi> then theirs.</l>
+            <l>If they that ſhall not lieu to ſuffer much</l>
+            <l>Vnder this cauſe of <hi>ſorrow,</hi> vtter ſuch</l>
+            <l>A paſſion for it; <hi>more</hi> it does belong</l>
+            <l>To <hi>vs</hi> that now are <hi>growing</hi> to it; <hi>yong;</hi>
+            </l>
+            <l>As if our <hi>generations</hi> had intent,</l>
+            <l>We ſhould be <hi>borne</hi> to feele the <hi>puniſhment.</hi>
+            </l>
+            <l>
+               <hi>Now</hi> let vs <hi>willingly</hi> giue griefe regard;</l>
+            <l>Leaſt we be <hi>forc'd</hi> to doe it <hi>afterward,</hi>
+            </l>
+            <l>By <hi>Heauen's</hi> iuſt anger. Stay a little. Why</l>
+            <l>Should yong men thinke the old ſhall ſooner die?</l>
+            <pb facs="tcp:173663:13"/>
+            <pb facs="tcp:173663:13"/>
+            <l> HIS youths great broken promiſe wee complaine.</l>
+            <l>Yet none was greater. And are ours leſſe vaine?</l>
+            <l>Miſtake not. As <hi>Humanitie</hi> now goes;</l>
+            <l>HEE liu'd a <hi>Man</hi> as long as any does.</l>
+            <l>For (onelie) in thoſe <hi>Minutes</hi> that wee giue</l>
+            <l>To <hi>Vertue,</hi> wee are <hi>Trulie</hi> ſaid to liue</l>
+            <l>
+               <hi>Men,</hi> and no longer. If we recken then,</l>
+            <l>HIS good houres, with the good of other Men;</l>
+            <l>HIS Times whole added numbers will ariſe,</l>
+            <l>To his, that tels out foureskore ere he dies<g ref="char:punc">▪</g>
+            </l>
+            <l>To prooue this, looke as low as ere you can;</l>
+            <l>And heare the words of the deiected Man;</l>
+            <l>The <hi>Souldier</hi> ſpeakes them. <hi>Honour! Now I ſee,</hi>
+            </l>
+            <l>
+               <hi>There is no hope that any Age will be</hi>
+            </l>
+            <l>
+               <hi>So good and noble as the ancient were.</hi>
+            </l>
+            <l>
+               <hi>None ſo Heroique euer ſhall appeare.</hi>
+            </l>
+            <l>
+               <hi>For if that Fate, (which cannot be withſtood)</hi>
+            </l>
+            <l>
+               <hi>Had not decreed, there ſhould be none ſo good;</hi>
+            </l>
+            <l>
+               <hi>Shee would not haue neglected ſuch a worth</hi>
+            </l>
+            <l>
+               <hi>As</hi> HIS <hi>was, to haue brought that great worke forth.</hi>
+            </l>
+            <l>
+               <hi>But hauing purpos'd it ſhould neuer be;</hi>
+            </l>
+            <l>
+               <hi>And hearing euery where by Fame, that</hi> HEE</l>
+            <l>
+               <hi>Was making one; ſhe kill'd</hi> HIM.—Marke his eye;</l>
+            <l>Hee weeps. <hi>He</hi> weeps; that can more eaſilie</l>
+            <l>Weepe <hi>Bloud</hi> then <hi>Water.</hi> Then I wonder, how</l>
+            <l>Or <hi>He,</hi> or anye other <hi>Souldier,</hi> now,</l>
+            <l>Can hold his <hi>ſword vnbroken;</hi> ſince HEE was,</l>
+            <l>That gaue them <hi>Count'nance.</hi> That's the Cauſe (alas)</l>
+            <pb facs="tcp:173663:12"/>
+            <pb facs="tcp:173663:12"/>
+            <l> They doe not <hi>breake</hi> them; and a iuſt excuſe.</l>
+            <l>They weare them <hi>now,</hi> to keepe them from <hi>abuſe.</hi>
+            </l>
+            <l>For that great <hi>fauour</hi> now has made an <hi>end;</hi>
+            </l>
+            <l>That their deſpis'd conditions did <hi>defend.</hi>
+            </l>
+            <l>
+               <hi>Artes</hi> too, are ſo diſcourag'd by their harmes;</l>
+            <l>In loſſe of HIM, who lou'd both <hi>them</hi> and Armes;</l>
+            <l>That they would all leaue <hi>ſtudie</hi> and decline</l>
+            <l>From <hi>Learning;</hi> if thoſe <hi>Naturall</hi> and <hi>Diuine</hi>
+            </l>
+            <l>Perſwading <hi>Contemplations,</hi> did not leade</l>
+            <l>The <hi>One</hi> to <hi>Heauen;</hi> the <hi>other</hi> to the <hi>dead;</hi>
+            </l>
+            <l>(Betweene whoſe <hi>parts,</hi> they haue diuided HIS;)</l>
+            <l>And promiſe, <hi>ſo,</hi> to bring them where HEE is.</l>
+            <l>But I would haue their <hi>ſtudies</hi> neuer die;</l>
+            <l>For preſeruation of HIS <hi>Memorie.</hi>
+            </l>
+            <l>How can <hi>that</hi> periſh? That will euer keepe;</l>
+            <l>Becauſe th'impreſſion of it is ſo deepe.</l>
+            <l>When any <hi>Painter</hi> to the <hi>life,</hi> that ſaw</l>
+            <l>HIS <hi>preſence</hi> fullie, takes in hand to draw</l>
+            <l>An <hi>Alexander,</hi> or a <hi>Caeſar;</hi> 'his beſt</l>
+            <l>
+               <hi>Imaginations</hi> will bee ſo poſſeſſ't</l>
+            <l>With HIS <hi>Remembrance,</hi> that as HEE does limme,</l>
+            <l>Hee'l make that <hi>Worthie's</hi> picture like to HIM.</l>
+            <l>And then t'will be a <hi>Piece</hi> of ſuch a <hi>Grace,</hi>
+            </l>
+            <l>For <hi>Height</hi> and <hi>Sweetneſſe;</hi> as that onely <hi>Face</hi>
+            </l>
+            <l>Will make another <hi>Painter,</hi> that ne'er knew</l>
+            <l>HIM liuing, follow as the other drew.</l>
+            <l>How great a <hi>Character</hi> deſerues HEE then,</l>
+            <l>Whoſe <hi>Memorie</hi> ſhall but expire with men?</l>
+            <pb facs="tcp:173663:15"/>
+            <pb facs="tcp:173663:15"/>
+            <l> 
+               <hi>When a Diuine, or Poet ſets downe right,</hi>
+            </l>
+            <l>
+               <hi>What other Princes ſhould bee<g ref="char:punc">▪</g> Hee ſhall write</hi>
+            </l>
+            <l>
+               <hi>What</hi> THIS <hi>was<g ref="char:punc">▪</g>
+               </hi> That's HIS <hi>Character,</hi> which beares</l>
+            <l>My ſorrow inward, to goe forth in teares.</l>
+            <l>Yet ſome of Ioy too, mix'd with thoſe of <hi>Greefe;</hi>
+            </l>
+            <l>That flow from apprehenſion of releefe.</l>
+            <l>I ſee HIS <hi>ſpirit</hi> turn'd into a <hi>ſtarre;</hi>
+            </l>
+            <l>Whoſe <hi>influence</hi> makes that HIS owne <hi>Vertues</hi> are</l>
+            <l>
+               <hi>Succeeded</hi> iuſtlie; otherwiſe, the <hi>worst,</hi>
+            </l>
+            <l>As at HIS <hi>Funerall</hi> ſhould proceede the <hi>firſt.</hi>
+            </l>
+            <l>HIS <hi>Natiue goodnes,</hi> followes in HIS <hi>Roome;</hi>
+            </l>
+            <l>Elſe good Men would be buried in HIS <hi>Tombe.</hi>
+            </l>
+            <l>
+               <hi>O! ſuffer this to be a faithfull verſe;</hi>
+            </l>
+            <l>
+               <hi>To liue for euer, weeping o'er</hi> HIS <hi>Herſe.</hi>
+            </l>
+            <closer>
+               <signed>CYRIL TOVRNEVR.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173663:16"/>
+            <pb facs="tcp:173663:16"/>
+            <head>ON THE REPRESEN<g ref="char:EOLhyphen"/>TATION OF THE Prince at his Funeralls.</head>
+            <l>HE that the <hi>Life</hi> of this <hi>Face</hi> euer ſawe;</l>
+            <l>The <hi>Mildnes</hi> in it noting, and the <hi>Awe:</hi>
+            </l>
+            <l>Will iudge that <hi>Peace</hi> did either in her <hi>Loue,</hi>
+            </l>
+            <l>So ſoone aduance HIM to her <hi>State</hi> aboue;</l>
+            <l>Or elſe in <hi>Feare</hi> that <hi>HE</hi> would <hi>Warre</hi> preferre,</l>
+            <l>Concluded with HIM, HE ſhould <hi>Liue</hi> with <hi>Her.</hi>
+            </l>
+            <l>To <hi>Both,</hi> HIS aptneſſe fluently appeares,</l>
+            <l>In eu'rie <hi>Souldiers</hi> griefe, and <hi>Schollars</hi> teares.</l>
+            <closer>
+               <signed>C. T.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173663:17"/>
+            <pb facs="tcp:173663:17"/>
+            <head>On the Succeſsion.</head>
+            <l>THE <hi>State</hi> of <hi>England</hi> hath beene oft oppreſ'd,</l>
+            <l>By many great <hi>pretenders.</hi> Fewe poſſeſ'd</l>
+            <l>The Kingdomes title <hi>ſafelie,</hi> but when <hi>One</hi>
+            </l>
+            <l>Deſcended, and inherited <hi>alone.</hi>
+            </l>
+            <l>Prince HENRIE ſaw his brother CHARLES was younger,</l>
+            <l>Therefore in <hi>Loue</hi> (becauſe <hi>Hee</hi> might liue longer;)</l>
+            <l>Gaue way: and for the Kingdomes <hi>ſtrengthening,</hi>
+            </l>
+            <l>HEE left but one SONNE to ſucceed the KING.</l>
+            <closer>
+               <signed>C. T.</signed>
+            </closer>
+            <pb facs="tcp:173663:18"/>
+            <pb facs="tcp:173663:18"/>
+            <pb facs="tcp:173663:19"/>
+            <pb facs="tcp:173663:19"/>
+            <pb facs="tcp:173663:20"/>
+            <pb facs="tcp:173663:20"/>
+            <pb facs="tcp:173663:21"/>
+            <pb facs="tcp:173663:21"/>
+            <pb facs="tcp:173663:22"/>
+            <pb facs="tcp:173663:22"/>
+            <pb facs="tcp:173663:23"/>
+            <pb facs="tcp:173663:23"/>
+            <pb facs="tcp:173663:24"/>
+            <pb facs="tcp:173663:24" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
